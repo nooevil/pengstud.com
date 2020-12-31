@@ -1,0 +1,232 @@
+[
+  {
+    "LanguageName": "Arabic",
+    "LanguageCode": "ar",
+    "CriteriaId": 1019
+  },
+  {
+    "LanguageName": "Bengali",
+    "LanguageCode": "bn",
+    "CriteriaId": 1056
+  },
+  {
+    "LanguageName": "Bulgarian",
+    "LanguageCode": "bg",
+    "CriteriaId": 1020
+  },
+  {
+    "LanguageName": "Catalan",
+    "LanguageCode": "ca",
+    "CriteriaId": 1038
+  },
+  {
+    "LanguageName": "Chinese (simplified)",
+    "LanguageCode": "zh_CN",
+    "CriteriaId": 1017
+  },
+  {
+    "LanguageName": "Chinese (traditional)",
+    "LanguageCode": "zh_TW",
+    "CriteriaId": 1018
+  },
+  {
+    "LanguageName": "Croatian",
+    "LanguageCode": "hr",
+    "CriteriaId": 1039
+  },
+  {
+    "LanguageName": "Czech",
+    "LanguageCode": "cs",
+    "CriteriaId": 1021
+  },
+  {
+    "LanguageName": "Danish",
+    "LanguageCode": "da",
+    "CriteriaId": 1009
+  },
+  {
+    "LanguageName": "Dutch",
+    "LanguageCode": "nl",
+    "CriteriaId": 1010
+  },
+  {
+    "LanguageName": "English",
+    "LanguageCode": "en",
+    "CriteriaId": 1000
+  },
+  {
+    "LanguageName": "Estonian",
+    "LanguageCode": "et",
+    "CriteriaId": 1043
+  },
+  {
+    "LanguageName": "Filipino",
+    "LanguageCode": "tl",
+    "CriteriaId": 1042
+  },
+  {
+    "LanguageName": "Finnish",
+    "LanguageCode": "fi",
+    "CriteriaId": 1011
+  },
+  {
+    "LanguageName": "French",
+    "LanguageCode": "fr",
+    "CriteriaId": 1002
+  },
+  {
+    "LanguageName": "German",
+    "LanguageCode": "de",
+    "CriteriaId": 1001
+  },
+  {
+    "LanguageName": "Greek",
+    "LanguageCode": "el",
+    "CriteriaId": 1022
+  },
+  {
+    "LanguageName": "Hebrew",
+    "LanguageCode": "iw",
+    "CriteriaId": 1027
+  },
+  {
+    "LanguageName": "Hindi",
+    "LanguageCode": "hi",
+    "CriteriaId": 1023
+  },
+  {
+    "LanguageName": "Hungarian",
+    "LanguageCode": "hu",
+    "CriteriaId": 1024
+  },
+  {
+    "LanguageName": "Icelandic",
+    "LanguageCode": "is",
+    "CriteriaId": 1026
+  },
+  {
+    "LanguageName": "Indonesian",
+    "LanguageCode": "id",
+    "CriteriaId": 1025
+  },
+  {
+    "LanguageName": "Italian",
+    "LanguageCode": "it",
+    "CriteriaId": 1004
+  },
+  {
+    "LanguageName": "Japanese",
+    "LanguageCode": "ja",
+    "CriteriaId": 1005
+  },
+  {
+    "LanguageName": "Korean",
+    "LanguageCode": "ko",
+    "CriteriaId": 1012
+  },
+  {
+    "LanguageName": "Latvian",
+    "LanguageCode": "lv",
+    "CriteriaId": 1028
+  },
+  {
+    "LanguageName": "Lithuanian",
+    "LanguageCode": "lt",
+    "CriteriaId": 1029
+  },
+  {
+    "LanguageName": "Malay",
+    "LanguageCode": "ms",
+    "CriteriaId": 1102
+  },
+  {
+    "LanguageName": "Norwegian",
+    "LanguageCode": "no",
+    "CriteriaId": 1013
+  },
+  {
+    "LanguageName": "Persian",
+    "LanguageCode": "fa",
+    "CriteriaId": 1064
+  },
+  {
+    "LanguageName": "Polish",
+    "LanguageCode": "pl",
+    "CriteriaId": 1030
+  },
+  {
+    "LanguageName": "Portuguese",
+    "LanguageCode": "pt",
+    "CriteriaId": 1014
+  },
+  {
+    "LanguageName": "Romanian",
+    "LanguageCode": "ro",
+    "CriteriaId": 1032
+  },
+  {
+    "LanguageName": "Russian",
+    "LanguageCode": "ru",
+    "CriteriaId": 1031
+  },
+  {
+    "LanguageName": "Serbian",
+    "LanguageCode": "sr",
+    "CriteriaId": 1035
+  },
+  {
+    "LanguageName": "Slovak",
+    "LanguageCode": "sk",
+    "CriteriaId": 1033
+  },
+  {
+    "LanguageName": "Slovenian",
+    "LanguageCode": "sl",
+    "CriteriaId": 1034
+  },
+  {
+    "LanguageName": "Spanish",
+    "LanguageCode": "es",
+    "CriteriaId": 1003
+  },
+  {
+    "LanguageName": "Swedish",
+    "LanguageCode": "sv",
+    "CriteriaId": 1015
+  },
+  {
+    "LanguageName": "Tamil",
+    "LanguageCode": "ta",
+    "CriteriaId": 1130
+  },
+  {
+    "LanguageName": "Telugu",
+    "LanguageCode": "te",
+    "CriteriaId": 1131
+  },
+  {
+    "LanguageName": "Thai",
+    "LanguageCode": "th",
+    "CriteriaId": 1044
+  },
+  {
+    "LanguageName": "Turkish",
+    "LanguageCode": "tr",
+    "CriteriaId": 1037
+  },
+  {
+    "LanguageName": "Ukrainian",
+    "LanguageCode": "uk",
+    "CriteriaId": 1036
+  },
+  {
+    "LanguageName": "Urdu",
+    "LanguageCode": "ur",
+    "CriteriaId": 1041
+  },
+  {
+    "LanguageName": "Vietnamese",
+    "LanguageCode": "vi",
+    "CriteriaId": 1040
+  }
+]

@@ -1,0 +1,377 @@
+.amazon-page .first_gradient::after {
+	height: 800px;
+}
+
+.profit_amazon{
+	padding-top:100px
+}
+.profit_amazon h1.title{
+	margin-top: 10px;
+	font-family: Roboto;
+	font-weight: 400;
+	line-height: 1.2;
+	font-size: 30px;
+	font-size: 2.25rem;
+	color: #000000;
+}
+.profit_amazon h1 {
+	    text-align: left;
+}
+.profit_amazon .amazon_tools__color{
+	color: #ff9404;
+}
+
+.profit_amazon img{
+	max-width:100%;
+	height:auto
+}
+.profit_amazon .section_link{
+	margin-top:30px
+}
+.profit_amazon{
+	position:relative;
+	z-index:100
+}
+.profit_amazon .profit_amazon_bg{
+	content:'';
+	position:absolute;
+	top:0;right:0;
+	min-width:720px;
+	min-height:770px;
+	background-image:url(../img/amazon/Group.png);
+	background-position:left center;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-repeat:no-repeat
+}
+.profit_amazon .profit_amazon_bg__mobile{
+	display:none
+}
+
+.profit_amazon .amazon_img__mobile{
+	display:none
+}
+
+.profit_amazon .section_title__holder{
+	margin-top:210px;
+	padding:0;
+}
+.profit_amazon .section_title__holder h2{
+	font-family:Roboto;
+	font-weight:400;
+	line-height:1.2;
+	font-size:30px;
+	font-size:2.2rem;
+	color:#000
+}
+.profit_amazon_text{
+	margin-top:10px;
+	font-family:Roboto;
+	font-weight:400;
+	line-height:1.2;
+	font-size:30px;
+	font-size:1.6rem;
+	color:#494949
+}
+.section_link{
+	display:inline-block;
+	padding:0 25px;
+	margin-top:70px;
+	font-family:Roboto;
+	font-weight:400;
+	line-height:56px;
+	font-size:28px;
+	font-size:1.3rem;
+	color:#fff;
+	background-color:#ff9404;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:2px solid #ff9404;
+	-webkit-transition:.3s;
+	-o-transition:.3s;
+	transition:.3s;
+	outline:0
+}
+.profit_amazon_banner__holder{
+	position:absolute;
+	top:0;
+	right:-250px
+}
+
+
+.amazon_campaign {
+	position:relative;
+	margin-top: 140px;
+	z-index: 200;
+}
+
+.amazon_campaign img{
+	max-width:100%;
+	height:auto
+}
+
+.amazon_campaign .amazon_campaign_bg{
+	content:'';
+	position:absolute;
+	top:0;left:0;
+	min-width:585px;
+	min-height:490px;
+	background-image:url(../img/amazon/Frame.png);
+	background-position: right center;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-repeat:no-repeat
+}
+
+.amazon_campaign .section_title__holder {
+	padding: 0;
+}
+
+.amazon_campaign h2 {
+	font-family: Roboto;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 30px;
+    font-size: 1.875rem;
+    color: #000;
+
+}
+
+.amazon_campaign .section_title__holder h3 {
+	margin-top: 20px;
+	font-family: Roboto;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 22.5px;
+    font-size: 1.406rem;
+    color: #494949;
+}
+
+
+.amazon_campaign_item {
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-align:center;
+	-webkit-align-items:center;
+	-ms-flex-align:center;
+	align-items:center;
+	margin-top: 50px;
+}
+.amazon_campaign_item:not(:first-child){
+	margin-top:35px
+}
+.amazon_campaign_item__content{
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:-ms-flexbox;
+	display:flex;
+	-webkit-box-orient:vertical;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:column;-ms-flex-direction:column;
+	flex-direction:column
+}
+.amazon_campaign_item__num{
+	display:inline-block;
+	margin-right:20px;
+	font-family:Roboto;
+	font-weight:400;
+	line-height:1;
+	font-size:96px;
+	font-size:5rem;
+	color:#ccc
+}
+.amazon_campaign_item__title{
+	font-family:Roboto;
+	font-weight:400;
+	line-height:1.2;
+	font-size:22.5px;
+	font-size:1.4rem;
+	color:#000
+}
+
+.amazon-rates {
+	position:relative;
+	margin-top: 140px;
+	z-index: 200;
+}
+
+.amazon-rates img{
+	max-width:100%;
+	height:auto
+}
+
+.amazon-rates .amazon_campaign_bg{
+	content:'';
+	position:absolute;
+	top:0;left:0;
+	min-width:585px;
+	min-height:490px;
+	background-image:url(../img/amazon/Frame.png);
+	background-position: right center;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-repeat:no-repeat
+}
+
+.amazon-rates .section_title__holder {
+	padding: 0;
+}
+
+.amazon-rates .section_title__holder h2 {
+	font-family: Roboto;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 30px;
+    font-size: 1.875rem;
+    color: #000;
+
+}
+
+.amazon-rates .section_title__holder h3 {
+	margin-top: 20px;
+	font-family: Roboto;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 22.5px;
+    font-size: 1.406rem;
+    color: #494949;
+}
+
+.amazon-rates_banner__holder{
+	max-width: 980px;
+	margin: 30px auto 10px;
+	display: flex;
+	justify-content: center;
+}
+
+.amazon-rates_banner__holder .img-width{
+	width: auto;
+}
+
+.amazon-rates .approaches {
+	display: flex;
+	margin-top: 20px;
+	justify-content: center;
+}
+
+.amazon-rates .approach {
+	margin: 0 50px;
+}
+
+
+.amazon-rates .approach h3 {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 27px;
+	color: #ff9404;
+}
+
+.amazon-rates .approach h3 .approach-title {
+	color: #ffffff;
+	border-radius: 3px;
+	background-color: #ff9404;
+	padding: 1px 7px;
+}
+
+.amazon-rates .approach h4 {
+	margin-top: 4px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	color: #8F8F8F;
+}
+
+.amazon-page .feedback_form__title {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 27px;
+	text-align: center;
+	color: #262626;
+}
+
+.amazon-page .feedback_form__text {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	color: #000000;
+}
+
+.amazon-page .feedback_form {
+	margin-top: 30px;
+}
+
+.amazon-page .google_info {
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 1.2;
+    font-size: 22.5px;
+    font-size: 1.4rem;
+    color: #494949
+}
+
+
+@media (max-width:1199.98px){
+	.profit_amazon .profit_amazon_bg{
+		min-width:520px;
+		min-height:570px
+	}
+	.profit_amazon .section_title__holder{
+		margin-top:155px
+	}
+	.amazon_campaign_item{
+		margin-top:40px
+	}
+
+	.amazon_campaign .amazon_campaign_bg {
+		display: none;
+	}
+
+	.amazon-page .feedback_form {
+		width: 100%;
+	}
+
+}
+
+@media (max-width:991.98px){
+	.profit_amazon .profit_amazon_bg{
+		display:none
+	}
+	.profit_amazon .profit_amazon_bg__mobile{
+		display:block
+	}
+	.profit_amazon .profit_amazon_bg__mobile img{
+		height:360px
+	}
+	.profit_amazon .section_title__holder{
+		margin-top:70px
+	}
+	.profit_amazon .profit_amazon_link__holder{
+		text-align: center;
+	}
+	.profit_amazon .section_title__holder{
+		margin-top:35px
+	}
+}
+
+@media (max-width:991.98px){
+	.profit_amazon .amazon_title {
+		min-width: 100%;
+	}
+	.profit_amazon .title {
+		text-align: center;
+	}
+	.amazon-rates .approaches {
+		flex-direction: column;
+	}
+}

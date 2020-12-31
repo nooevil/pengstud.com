@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bubnov/yandex-direct-client": "^1.0"
+    }
+}

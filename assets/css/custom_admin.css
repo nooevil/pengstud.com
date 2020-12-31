@@ -1,0 +1,24 @@
+.admin__user_log__table__holder {
+    max-height: 500px; overflow: auto;
+}
+
+.admin__user_log__table thead {
+
+}
+
+.admin__user_log__table thead th {
+    padding: 5px; 
+}
+
+.admin__user_log__table thead td {
+    padding: 5px; 
+}
+
+.admin__user_log__table {
+    color: #222!important;
+    width: 100%;
+    text-align:center;
+    border-collapse: collapse;
+    font-size: 10px!important;
+}
+

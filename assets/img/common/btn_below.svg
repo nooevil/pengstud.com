@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="13800 757 94.274 69.354">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 60px;
+        font-family: FontAwesome;
+      }
+
+      .cls-2 {
+        fill: #ff9f00;
+      }
+    </style>
+  </defs>
+  <g id="Group_298" data-name="Group 298" transform="translate(12880 15)">
+    <text id="_" data-name="" class="cls-1" transform="translate(948 793)"><tspan x="0" y="0"></tspan></text>
+    <g id="Group_31" data-name="Group 31" transform="translate(919.981 811.374) rotate(-90)">
+      <g id="Group_16" data-name="Group 16" transform="translate(0.02 0.019)">
+        <g id="Group_15" data-name="Group 15" transform="translate(0 0)">
+          <path id="Path_30" data-name="Path 30" d="M45.273.658,30.2,15.733,6.15,39.78.659,45.272C-1.315,47.246,1.736,50.3,3.71,48.323L18.784,33.248,42.832,9.2l5.527-5.527C50.3,1.735,47.247-1.316,45.273.658Z" transform="translate(-0.02 -0.019)"/>
+        </g>
+      </g>
+      <g id="Group_18" data-name="Group 18" transform="translate(0.02 44.652)">
+        <g id="Group_17" data-name="Group 17" transform="translate(0)">
+          <path id="Path_31" data-name="Path 31" class="cls-2" d="M.659,128.043l15.29,15.29L40.355,167.74l5.635,5.635c1.974,1.974,5.025-1.077,3.051-3.051l-15.29-15.29L9.345,130.628,3.71,124.992c-1.974-1.938-5.025,1.113-3.051,3.051Z" transform="translate(-0.02 -124.372)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,327 @@
+[
+  {
+    "CurrencyCode": "AED",
+    "CurrencyName": "United Arab Emirates Dirham",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "ARS",
+    "CurrencyName": "Argentine Peso",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "AUD",
+    "CurrencyName": "Australian Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "BGN",
+    "CurrencyName": "Bulgarian Lev",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "BND",
+    "CurrencyName": "Brunei Dollar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "BOB",
+    "CurrencyName": "Bolivian Boliviano",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "BRL",
+    "CurrencyName": "Brazilian Real",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "CAD",
+    "CurrencyName": "Canadian Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "CHF",
+    "CurrencyName": "Swiss Francs",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "CLP",
+    "CurrencyName": "Chilean Peso",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "CNY",
+    "CurrencyName": "Yuan Renminbi",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "COP",
+    "CurrencyName": "Colombian Peso",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "CSD",
+    "CurrencyName": "Old Serbian Dinar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "CZK",
+    "CurrencyName": "Czech Koruna",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "DEM",
+    "CurrencyName": "Deutsche Marks",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "DKK",
+    "CurrencyName": "Denmark Kroner",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "EEK",
+    "CurrencyName": "Estonian Kroon",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "EGP",
+    "CurrencyName": "Egyptian Pound",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euros",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "FJD",
+    "CurrencyName": "Fiji Dollar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "FRF",
+    "CurrencyName": "French Franks",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "GBP",
+    "CurrencyName": "British Pounds Sterling",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "HKD",
+    "CurrencyName": "Hong Kong Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "HRK",
+    "CurrencyName": "Croatian Kuna",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "HUF",
+    "CurrencyName": "Hungarian Forint",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "IDR",
+    "CurrencyName": "Indonesian Rupiah",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "ILS",
+    "CurrencyName": "Israeli Shekel",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "INR",
+    "CurrencyName": "Indian Rupee",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "JOD",
+    "CurrencyName": "Jordanian Dinar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "JPY",
+    "CurrencyName": "Japanese Yen",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "KES",
+    "CurrencyName": "Kenyan Shilling",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "KRW",
+    "CurrencyName": "South Korean Won",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "LKR",
+    "CurrencyName": "Sri Lankan Rupee",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "LTL",
+    "CurrencyName": "Lithuanian Litas",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "MAD",
+    "CurrencyName": "Moroccan Dirham",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "MTL",
+    "CurrencyName": "Maltese Lira",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "MXN",
+    "CurrencyName": "Mexico Peso",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "MYR",
+    "CurrencyName": "Malaysian Ringgit",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "NOK",
+    "CurrencyName": "Norway Kroner",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "NZD",
+    "CurrencyName": "New Zealand Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "PEN",
+    "CurrencyName": "Peruvian Nuevo Sol",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "PHP",
+    "CurrencyName": "Philippine Peso",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "PKR",
+    "CurrencyName": "Pakistan Rupee",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "PLN",
+    "CurrencyName": "Polish New Zloty",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "ROL",
+    "CurrencyName": "Romanian Leu",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "RON",
+    "CurrencyName": "New Romanian Leu",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "RSD",
+    "CurrencyName": "Serbian Dinar",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "RUB",
+    "CurrencyName": "Russian Rouble",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "SAR",
+    "CurrencyName": "Saudi Riyal",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "SEK",
+    "CurrencyName": "Sweden Kronor",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "SGD",
+    "CurrencyName": "Singapore Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "SIT",
+    "CurrencyName": "Slovenian Tolar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "SKK",
+    "CurrencyName": "Slovak Koruna",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "THB",
+    "CurrencyName": "Thai Baht",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "TND",
+    "CurrencyName": "Tunisian Dinar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "TRL",
+    "CurrencyName": "Turkish Lira",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "TRY",
+    "CurrencyName": "New Turkish Lira",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "TWD",
+    "CurrencyName": "New Taiwan Dollar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "UAH",
+    "CurrencyName": "Ukrainian Hryvnia",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollars",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "UYU",
+    "CurrencyName": "Uruguayan peso",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "VEB",
+    "CurrencyName": "Venezuela Bolivar",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "VEF",
+    "CurrencyName": "Venezuela Bolivar Fuerte",
+    "MinimumUnit": "10000"
+  },
+  {
+    "CurrencyCode": "VND",
+    "CurrencyName": "Vietnamese Dong",
+    "MinimumUnit": "1000000"
+  },
+  {
+    "CurrencyCode": "ZAR",
+    "CurrencyName": "South African Rand",
+    "MinimumUnit": "10000"
+  }
+]
